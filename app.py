@@ -1,6 +1,6 @@
 import pygame
 import game_config as gc
-from zombie import Zombie
+from ghost import Zombie
 from pygame import display , event , image
 
 def find_index(x,y):
@@ -13,7 +13,7 @@ pygame.init()
 
 #display module for controlling display
 #set_caption(): for changing the title of the gaming window
-display.set_caption('Zombie Hunter')
+display.set_caption('Kill the Ghost')
 
 #set_mode: to set the size of the game window and it also returns a 
 #surface object which is a pygame object for representing image on screen
