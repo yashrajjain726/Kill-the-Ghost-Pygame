@@ -42,7 +42,7 @@ git clone https://github.com/yashrajjain726/Kill_Ghost_Pygame.git
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/Kill_Ghost_Pygame/issues). You can also take a look at our project and PR us.[Click to Raise PR](https://github.com/yashrajjain726/Kill_Ghost_Pygame/pulls).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/Kill-the-Ghost-Pygame/issues). You can also take a look at our project and PR us.[Click to Raise PR](https://github.com/yashrajjain726/Kill-the-Ghost-Pygame/pulls).
 
 ## Show your support
 
