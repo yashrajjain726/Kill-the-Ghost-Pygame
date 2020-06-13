@@ -3,6 +3,10 @@
 Kill Ghost is a Pygame based Python game that can be run in desktop and PC only.It is a small pygame which has been developed by me as a learning and exploring purpose.
 
 
+ ![](https://github.com/yashrajjain726/Kill-the-Ghost-Pygame/blob/master/gif/view.gif)
+
+ 
+
 
 ## Before Installation
 Before running the code, you must install the following packages from the command prompt
